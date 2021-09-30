@@ -1,0 +1,2 @@
+# Graphical-Properties-of-Polyrhythms
+Polyrhythms are contrasting rhythms played simultaneously. For the purposes of this endeavor, we will focus on polyrhythms that happen within the same time signature. How can we establish a mathematical and computational basis to make sure polyrhythms follow the same time signature? Rhythms within a measure can be modeled using cyclic graphs due to the fact that beat counts restart at the beginning of every measure. This will be a case study in ensuring that triplets and eighth rhythms both follow 4/4 time graphically.
